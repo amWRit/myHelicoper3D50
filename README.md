@@ -2,7 +2,7 @@
 
 # Helicopter3D-50
 
-As part of learning through Harvard's CS50G "Introduction to Game Development" course, recreating the Helicopter-3D game using Lua and LOVE2D.
+As part of learning through Harvard's CS50G "Introduction to Game Development" course, recreating the Helicopter-3D game using Unity and Blender.
 Updates were made on the original source code provided by CS50, based on assignment specifications.
 
 __Assignment 8: “Helicopter Game 3D, The Gem Update”__
