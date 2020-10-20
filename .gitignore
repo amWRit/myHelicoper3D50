@@ -3,6 +3,7 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/Logs/AssetImportWorker0.log
 /Assets/AssetStoreTools*
 /LameHeli_Data/
 
